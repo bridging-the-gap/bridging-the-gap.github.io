@@ -23,17 +23,15 @@ Students who visit the site can create a profile with their interests (skills), 
 
 Admins can monitor the site for inappropriate content, and create new categories of musical tastes, capabilities, and goals.
 
-Note: if you choose this idea for your final project, you cannot name it “Company Connectro”. Come up with a different name for your final project.
-
 Some mockup pages include:
 
-Landing page
-Student home page.
-Company home page
-Admin home page
-Student profile page.
-Company profile page
-Browse companies and users by skill, geographic preference, etc.
+* Landing page
+* Student home page.
+* Company home page
+* Admin home page
+* Student profile page.
+* Company profile page
+* Browse companies and users by skill, geographic preference, etc.
 
 
 ## Team
