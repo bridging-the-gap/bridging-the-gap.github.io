@@ -36,5 +36,5 @@ Some mockup pages include:
 
 ## Team
 
-Bridging the Gap is designed, implemented, and maintained by Nina Nyegaarden, Helene Engebakken, Marte Aaberge, Leilani Reich, and Bryan Yagi.
+Bridging the Gap is designed, implemented, and maintained by [Nina Nyegaarden](https://ninanye.github.io/), [Helene Engebakken](https://heleeha.github.io/), [Marte Aaberge](https://martkaa.github.io/), [Leilani Reich](https://leilani-reich.github.io/), and [Bryan Yagi](https://bryanyagi.github.io/).
 
