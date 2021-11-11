@@ -80,9 +80,13 @@ The browse company page will display all companies by geographic preference. Stu
 
 ### Student Homepage
 
+This page will let the student have an overview over events and job applications.
+
 <img src="doc/student-home-page.png">
 
 ### Student Profile Page
+
+This page is for the student to add resume and job experience.
 
 <img src="doc/student-profile-page.png">
 
