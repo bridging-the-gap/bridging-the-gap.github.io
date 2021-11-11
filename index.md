@@ -32,7 +32,8 @@ Some mockup pages include:
 * Admin home page
 * Student profile page.
 * Company profile page
-* Browse companies and users by skill, geographic preference, etc.
+* Browse companiesby by geographic preference etc.
+* Browse users by skill etc.
 
 
 ## Team
@@ -63,5 +64,17 @@ The company profile page will display all of the company's details and the jobs 
 The company can also choose to add a background picture to customize their page.
 
 <img src="doc/Company account profile.PNG">
+
+### Browse companies
+
+The browse company page will display all companies by geographic preference. Students will be able to see this page.
+
+<img src="doc/Browse_companies.png">
+
+### Browse users
+
+The browse company page will display all student users by skill preference. Companies will be able to see this page.
+
+<img src="doc/Browse_users.png">
 
 
