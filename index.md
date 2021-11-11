@@ -69,12 +69,12 @@ The company can also choose to add a background picture to customize their page.
 
 The browse company page will display all companies by geographic preference. Students will be able to see this page.
 
-<img src="doc/Browse_companies.png">
+<img src="doc/Browse-companies.png">
 
 ### Browse users
 
 The browse company page will display all student users by skill preference. Companies will be able to see this page.
 
-<img src="doc/Browse_users.png">
+<img src="doc/Browse-users.png">
 
 
