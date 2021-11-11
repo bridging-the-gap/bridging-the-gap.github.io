@@ -45,7 +45,7 @@ Bridging the Gap is designed, implemented, and maintained by
 
 ### Company Homepage
 
-<img src="doc/company account homepage.PNG" size="small" >
+<img src="doc/company account homepage.PNG">
 
 ### Company Profile Page
 
