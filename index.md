@@ -78,6 +78,14 @@ The browse company page will display all companies by geographic preference. Stu
 
 <img src="doc/Browse-companies.png">
 
+### Student Homepage
+
+<img src="doc/student-home-page.png">
+
+### Student Profile Page
+
+<img src="doc/student-profile-page.png">
+
 ### Browse users
 
 The browse company page will display all student users by skill preference. Companies will be able to see this page.
