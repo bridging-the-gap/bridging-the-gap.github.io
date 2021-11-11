@@ -89,5 +89,11 @@ The admin homepage allows admins to make new categories, monitor innappropriate 
 
 <img src="doc/bridge-admin-home-page.png">
 
+### Events
+The event page will display all upcoming events arranged by companies for UH Students only. This involves career-fairs, presentations and dinners with potential employers. 
+
+<img src="doc/event-mockup-page.png">
+
+
 
 
