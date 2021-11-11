@@ -32,8 +32,9 @@ Some mockup pages include:
 * Admin home page
 * Student profile page.
 * Company profile page
-* Browse companiesby by geographic preference etc.
+* Browse companies by by geographic preference etc.
 * Browse users by skill etc.
+* Events
 
 
 ## Team
