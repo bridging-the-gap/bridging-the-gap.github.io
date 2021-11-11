@@ -3,6 +3,7 @@
 * [Overview](#overview)
 * [Approach](#approach)
 * [Team](#team)
+* [User Guide](#User Guide)
 
 ## Overview
 
@@ -43,10 +44,22 @@ Bridging the Gap is designed, implemented, and maintained by
 * [Leilani Reich](https://leilani-reich.github.io/)
 * [Bryan Yagi](https://bryanyagi.github.io/).
 
+## User Guide
+
 ### Company Homepage
 
 <img src="doc/company account homepage.PNG">
 
+The company homepage allows companies to create a company profile on this site.
+They are able to leave a short description of their company, where they are located, 
+what industries they are interested in and an email by which they can be contacted.
+From here, companies are also able to create job listings; the job title, 
+the location of this job, it's salary range, the type of job (part-time, full-time, internship), 
+how many opennings and a short description of the job's responsibilities.
+
 ### Company Profile Page
 
 <img src="doc/Company account profile.PNG">
+
+The company profile page will display all of the company's details and the jobs that are available for said company.
+The company can also choose to add a background picture to customize their page.
