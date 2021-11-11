@@ -3,7 +3,7 @@
 * [Overview](#overview)
 * [Approach](#approach)
 * [Team](#team)
-* [User_Guide](#User_Guide)
+* [User Guide](#User_Guide)
 
 ## Overview
 
@@ -44,7 +44,7 @@ Bridging the Gap is designed, implemented, and maintained by
 * [Leilani Reich](https://leilani-reich.github.io/)
 * [Bryan Yagi](https://bryanyagi.github.io/).
 
-## User_Guide
+## User Guide
 
 ### Company Homepage
 
