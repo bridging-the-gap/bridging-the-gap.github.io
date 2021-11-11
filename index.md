@@ -3,7 +3,7 @@
 * [Overview](#overview)
 * [Approach](#approach)
 * [Team](#team)
-* [User Guide](#User_Guide)
+* [User Guide](#User Guide)
 
 ## Overview
 
