@@ -50,7 +50,7 @@ Bridging the Gap is designed, implemented, and maintained by
 
 <img src="doc/company account homepage.PNG">
 
-The company homepage allows companies to create a company profile on this site.
+The company homepage allows companies to create their own profile on this site.
 They are able to leave a short description of their company, where they are located, 
 what industries they are interested in and an email by which they can be contacted.
 From here, companies are also able to create job listings; the job title, 
