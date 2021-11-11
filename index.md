@@ -40,7 +40,7 @@ Some mockup pages include:
 
 Bridging the Gap is designed, implemented, and maintained by 
 * [Nina Nyegaarden](https://ninanye.github.io/) 
-* [Helene Engebakken](https://heleeha.github.io/) 
+* [Helene Haugen](https://heleeha.github.io/) 
 * [Marte Aaberge](https://martkaa.github.io/) 
 * [Leilani Reich](https://leilani-reich.github.io/)
 * [Bryan Yagi](https://bryanyagi.github.io/).
