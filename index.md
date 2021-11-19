@@ -186,6 +186,6 @@ Bridging the Gap is designed, implemented, and maintained by
 * [Helene Haugen](https://heleeha.github.io/) 
 * [Marte Aaberge](https://martkaa.github.io/) 
 * [Leilani Reich](https://leilani-reich.github.io/)
-* [Bryan Yagi](https://bryanyagi.github.io/).
+* [Bryan Yagi](https://bryanyagi.github.io/)
 
 
