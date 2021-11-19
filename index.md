@@ -92,7 +92,7 @@ This page is for the student to add resume and job experience.
 
 ### Browse Students
 
-The browse company page display all students by skill preference. Currently all logged in users can view this page.
+The browse students page display all students by skill preference. Currently all logged in users can view this page.
 
 <img src="doc/browse-students-deploy.png">
 
