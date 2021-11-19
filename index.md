@@ -52,7 +52,7 @@ Bridging the Gap is designed, implemented, and maintained by
 
 The landing page is the page everyone sees when they first enter the site. It introduces Bridging the Gap and its purpose and describes how to register. There is also a place to leave feedback on the site.
 
-<img src="doc/bridge-landing-page.png">
+<img src="doc/landing-page-M1.png">
 
 ### Company Homepage
 
@@ -100,7 +100,7 @@ The browse students page display all students by skill preference. Currently all
 
 The admin homepage allows admins to make new categories, monitor innappropriate content, and chat with clients who may be having problems.
 
-<img src="doc/bridge-admin-home-page.png">
+<img src="doc/admin-page-M1.png">
 
 ### Events
 
