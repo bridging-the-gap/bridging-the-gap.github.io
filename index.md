@@ -3,6 +3,8 @@
 * [Overview](#overview)
 * [Deployment](#deployment)
 * [User Guide](#user-guide)
+* [Community Feedback](#community-feedback)
+* [Developer Guide](#developer-guide)
 * [Development History](#development-history)
 * [Team](#team)
 
@@ -123,6 +125,34 @@ The event page will display all upcoming events arranged by companies for UH Stu
 
 <img src="doc/event-mockup-page.png">
 
+## Community Feedback
+
+Not yet available.
+
+## Developer Guide
+
+This section provides information of interest to Meteor developers wishing to use this code base as a basis for their own development tasks.
+
+### Installation
+
+First, [install Meteor](https://www.meteor.com/install).
+
+Second, visit the [Bridging the Gap application github page](https://github.com/bowfolios/bowfolios), and click the "Use this template" button to create your own repository initialized with a copy of this application. Alternatively, you can download the sources as a zip file or make a fork of the repo.  However you do it, download a copy of the repo to your local computer.
+
+Third, cd into the bridging-the-gap/app directory and install libraries with:
+
+```
+$ meteor npm install
+```
+
+Fourth, run the system with:
+
+```
+$ meteor npm run start
+```
+
+If all goes well, the application will appear at [http://localhost:3000](http://localhost:3000).
+
 ## Development History
 
 The development process for Bridging the Gap conformed to [Issue Driven Project Management](http://courses.ics.hawaii.edu/ics314f19/modules/project-management/) practices. In a nutshell:
@@ -147,7 +177,7 @@ Milestone 1 was managed using [Bridging the Gap GitHub Project Board M1](https:/
 
 The goal of Milestone 2 is to implement the data model: the underlying set of Mongo Collections and the operations upon them that will support the Bridging the Gap application. In addition, we will add more pages and improve on the overall functionality and completeness of the system.
 
-Milestone 2 was managed using [BowFolio GitHub Project Board M2](https://github.com/bridging-the-gap/bridging-the-gap/projects/2)
+Milestone 2 is managed using [Bridging the Gap GitHub Project Board M2](https://github.com/bridging-the-gap/bridging-the-gap/projects/2)
 
 ## Team
 
