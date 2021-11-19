@@ -33,7 +33,7 @@ Some mockup pages include:
 * Student profile page.
 * Company profile page
 * Browse companies by by geographic preference etc.
-* Browse users by skill etc.
+* Browse students by skill etc.
 * Events
 
 
@@ -72,11 +72,11 @@ The company can also choose to add a background picture to customize their page.
 
 <img src="doc/Company account profile.PNG">
 
-### Browse companies
+### Browse Companies
 
-The browse company page will display all companies by geographic preference. Students will be able to see this page.
+The browse company page display all companies by geographic preference. Currently all logged in users can view this page.
 
-<img src="doc/Browse-companies.png">
+<img src="doc/browse-companies-deploy.png">
 
 ### Student Homepage
 
@@ -90,11 +90,11 @@ This page is for the student to add resume and job experience.
 
 <img src="doc/student-profile-page.png">
 
-### Browse users
+### Browse Students
 
-The browse company page will display all student users by skill preference. Companies will be able to see this page.
+The browse company page display all students by skill preference. Currently all logged in users can view this page.
 
-<img src="doc/Browse-users.png">
+<img src="doc/browse-students-deploy.png">
 
 ### Admin Homepage
 
