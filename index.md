@@ -11,6 +11,8 @@ The problem: Many UH computer science and engineering students want to learn abo
 
 The solution: The Bridging the Gap web application provides a new way for local and non-local companies who want to recruit students from UH to make their (potential) opportunities known to students. At the same time, students can create profiles on the site with their interests. The site can match students to employers and vice-versa.
 
+Here is a link to the [GitHub organization](https://github.com/bridging-the-gap) for this project and its repositories.
+
 ## Approach
 
 Instead of sending out announcements each year, a company can create a page in the site that lists:
