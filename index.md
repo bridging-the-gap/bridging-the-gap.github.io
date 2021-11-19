@@ -1,10 +1,10 @@
 ## Bridging the Gap
 
 * [Overview](#overview)
-* [Approach](#approach)
-* [Team](#team)
 * [Deployment](#deployment)
-* [User Guide](#User-Guide)
+* [User Guide](#user-guide)
+* [Development History](#development-history)
+* [Team](#team)
 
 ## Overview
 
@@ -18,7 +18,7 @@ Our first project board, M1, can be found [here](https://github.com/bridging-the
 
 Our second project board, M2, can be found [here](https://github.com/bridging-the-gap/bridging-the-gap/projects/2).
 
-## Approach
+### Approach
 
 Instead of sending out announcements each year, a company can create a page in the site that lists:
 
@@ -43,16 +43,6 @@ Some mockup pages include:
 * Browse students by skill etc.
 * Events
 
-
-## Team
-
-Bridging the Gap is designed, implemented, and maintained by 
-* [Nina Nyegaarden](https://ninanye.github.io/) 
-* [Helene Haugen](https://heleeha.github.io/) 
-* [Marte Aaberge](https://martkaa.github.io/) 
-* [Leilani Reich](https://leilani-reich.github.io/)
-* [Bryan Yagi](https://bryanyagi.github.io/).
-
 ## Deployment
 The latest version of the app is hosted [here](http://64.225.52.13/).
 
@@ -70,7 +60,6 @@ Password: foo
 Email: cmoore@hawaii.edu
 
 Password: foo
-
 
 ## User Guide
 
@@ -134,6 +123,39 @@ The event page will display all upcoming events arranged by companies for UH Stu
 
 <img src="doc/event-mockup-page.png">
 
+## Development History
 
+The development process for Bridging the Gap conformed to [Issue Driven Project Management](http://courses.ics.hawaii.edu/ics314f19/modules/project-management/) practices. In a nutshell:
+
+* Development consists of a sequence of Milestones.
+* Each Milestone is specified as a set of tasks.
+* Each task is described using a GitHub Issue, and is assigned to a single developer to complete.
+* Tasks should typically consist of work that can be completed in 2-4 days.
+* The work for each task is accomplished with a git branch named "issue-XX", where XX is replaced by the issue number.
+* When a task is complete, its corresponding issue is closed and its corresponding git branch is merged into master.
+* The state (todo, in progress, complete) of each task for a milestone is managed using a GitHub Project Board.
+
+The following sections document the development history of Bridging the Gap.
+
+### Milestone 1: Mockup development
+
+The goal of Milestone 1 was to create a set of HTML pages using semantic ui react, which provide a mockup of the pages in the system.
+
+Milestone 1 was managed using [Bridging the Gap GitHub Project Board M1](https://github.com/bridging-the-gap/bridging-the-gap/projects/1)
+
+### Milestone 2: Data model development
+
+The goal of Milestone 2 is to implement the data model: the underlying set of Mongo Collections and the operations upon them that will support the Bridging the Gap application. In addition, we will add more pages and improve on the overall functionality and completeness of the system.
+
+Milestone 2 was managed using [BowFolio GitHub Project Board M2](https://github.com/bridging-the-gap/bridging-the-gap/projects/2)
+
+## Team
+
+Bridging the Gap is designed, implemented, and maintained by 
+* [Nina Nyegaarden](https://ninanye.github.io/) 
+* [Helene Haugen](https://heleeha.github.io/) 
+* [Marte Aaberge](https://martkaa.github.io/) 
+* [Leilani Reich](https://leilani-reich.github.io/)
+* [Bryan Yagi](https://bryanyagi.github.io/).
 
 
