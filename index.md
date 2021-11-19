@@ -3,6 +3,7 @@
 * [Overview](#overview)
 * [Approach](#approach)
 * [Team](#team)
+* [Deployment](#deployment)
 * [User Guide](#User-Guide)
 
 ## Overview
@@ -49,6 +50,19 @@ Bridging the Gap is designed, implemented, and maintained by
 * [Bryan Yagi](https://bryanyagi.github.io/).
 
 ## Deployment
+The latest version of the app is hosted [here](http://64.225.52.13/).
+
+### Log-in credentials for a home-page mockup for companies using the app: 
+Email: google@google.com
+Password: foo
+
+### Log-in credentials for a home-page mockup for students using the app: 
+Email: henric@hawaii.edu
+Password: foo
+
+### Log-in credentials for a home-page mockup for admin using the app: 
+Email: cmoore@hawaii.edu
+Password: foo
 
 
 ## User Guide
