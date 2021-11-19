@@ -14,6 +14,10 @@ The solution: The Bridging the Gap web application provides a new way for local 
 
 Here is a link to the [GitHub organization](https://github.com/bridging-the-gap) for this project and its repositories.
 
+Our first project board, M1, can be found [here](https://github.com/bridging-the-gap/bridging-the-gap/projects/1).
+
+Our second project board, M2, can be found [here](https://github.com/bridging-the-gap/bridging-the-gap/projects/2).
+
 ## Approach
 
 Instead of sending out announcements each year, a company can create a page in the site that lists:
