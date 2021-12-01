@@ -130,7 +130,7 @@ This page will allow the student to add resume and job experience.
 
 <img src="doc/student-profile-page.png">
 
-### Edit Student Profile Page
+Edit Student Profile Page
 
 Students will be able to edit their profiles via this page.
 
