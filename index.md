@@ -88,7 +88,7 @@ Alternatively, you can select “Sign up” to go to the following page and regi
 ### Company Homepage
 
 The company homepage allows companies to create their own profile on this site and add job listings.
-The company information will be displayed on the left side of the screen, while the active job listings will be shown on the right side. Active events are also displayed below any active job listings. From there you can browse any active events and sign up to attend.
+The company information will be displayed on the left side of the screen, while the active job listings will be shown on the right side. Active events are also displayed below any active job listings. From there you can browse any active events, sign up to attend or create an even of your own.
 
 <img src="doc/Company_Homepage.PNG">
 
