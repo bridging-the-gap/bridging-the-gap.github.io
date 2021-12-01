@@ -121,6 +121,10 @@ This page is for the student to add resume and job experience.
 
 <img src="doc/student-profile-page.png">
 
+Edit Student Profile Page
+
+<img src="doc/edit-student-profile-page.png">
+
 ### Browse Students
 
 The browse students page display all students by skill preference. Currently all logged in users can view this page.
