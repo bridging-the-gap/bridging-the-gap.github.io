@@ -87,14 +87,23 @@ Alternatively, you can select “Sign up” to go to the following page and regi
 
 ### Company Homepage
 
-The company homepage allows companies to create their own profile on this site.
-They are able to leave a short description of their company, where they are located, 
-what industries they are interested in and an email by which they can be contacted.
-From here, companies are also able to create job listings; the job title, 
-the location of this job, it's salary range, the type of job (part-time, full-time, internship), 
-how many opennings and a short description of the job's responsibilities.
+The company homepage allows companies to create their own profile on this site and add job listings.
+The company information will be displayed on the left side of the screen, while the active job listings will be shown on the right side. Active events are also displayed below any active job listings. From there you can browse any active events and sign up to attend.
 
-<img src="doc/company account homepage.PNG">
+<img src="doc/Company_Homepage.PNG">
+
+By clicking on the profile button, it will redirect you to the create profile page.
+
+<img src="doc/AddCompany.PNG">
+
+Here you are able to leave a short description of your company, where you are located, 
+what industries you are interested in and an email by which you can be contacted.
+
+By clicking on the "Add Job Listing", you will be redirected to the create job listing page.
+
+<img src="doc/addJob.PNG">
+
+Here you can create job listings; the job title, location, salary range and a short description of the job and it's responsibilities.
 
 ### Company Profile Page
 
