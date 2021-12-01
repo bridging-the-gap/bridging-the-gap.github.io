@@ -20,6 +20,8 @@ Our first project board, M1, can be found [here](https://github.com/bridging-the
 
 Our second project board, M2, can be found [here](https://github.com/bridging-the-gap/bridging-the-gap/projects/2).
 
+Our third project board, M3, can be found [here](https://github.com/bridging-the-gap/bridging-the-gap/projects/3).
+
 ### Approach
 
 Instead of sending out announcements each year, a company can create a page in the site that lists:
