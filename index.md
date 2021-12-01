@@ -75,13 +75,13 @@ The landing page is the page everyone sees when they first enter the site. It in
 
 ### Sign in
 
-Click on the “Login” button in the upper right corner of the navbar, then select “Sign in” to go to the following page and login. You must have been previously registered with the system to use this option:
+To login, use the sign in page. Click on the “Login” button in the upper right corner of the navbar, then select “Sign in” to go to the following page and login. You must have been previously registered with the system to use this option:
 
 <img src="doc/signin-page-M2.png">
 
 ### Sign up
 
-Alternatively, you can select “Sign up” to go to the following page and register as a new user. In this case, you must specify your role as either student or company.
+To register, use the sign up page, also accessible from the dropdown in the top right of the navbar. Once reaching the signup page, you have the same fields as the sign in page plus you must also specify your role as either student or company.
 
 <img src="doc/signup-page-M2.png">
 
@@ -126,17 +126,19 @@ This page will let the student have an overview over events and job applications
 
 ### Student Profile Page
 
-This page is for the student to add resume and job experience.
+This page will allow the student to add resume and job experience.
 
 <img src="doc/student-profile-page.png">
 
-Edit Student Profile Page
+### Edit Student Profile Page
+
+Students will be able to edit their profiles via this page.
 
 <img src="doc/edit-student-profile-page.png">
 
 ### Browse Students
 
-The browse students page display all students by skill preference. Currently all logged in users can view this page.
+The browse students page displays all students by skill preference. Currently all logged in users can view this page.
 
 <img src="doc/Browse-students-M2.png">
 
