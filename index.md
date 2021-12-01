@@ -46,7 +46,7 @@ Some mockup pages include:
 * Events
 
 ## Deployment
-The latest version of the app is hosted [here](http://64.225.52.13/).
+The latest version of the app is hosted [here](https://bridging-the-gap.xyz/#/).
 
 #### Log-in credentials for a home-page mockup for companies using the app: 
 Email: google@google.com
@@ -70,6 +70,18 @@ Password: foo
 The landing page is the page everyone sees when they first enter the site. It introduces Bridging the Gap and its purpose and describes how to register. There is also a place to leave feedback on the site.
 
 <img src="doc/landing-page-M1.png">
+
+### Sign in
+
+Click on the “Login” button in the upper right corner of the navbar, then select “Sign in” to go to the following page and login. You must have been previously registered with the system to use this option:
+
+<img src="doc/signin-page-M2.png">
+
+### Sign up
+
+Alternatively, you can select “Sign up” to go to the following page and register as a new user. In this case, you must specify your role as either student or company.
+
+<img src="doc/signup-page-M2.png">
 
 ### Company Homepage
 
@@ -115,9 +127,15 @@ The browse students page display all students by skill preference. Currently all
 
 ### Admin Homepage
 
-The admin homepage allows admins to make new categories, monitor innappropriate content, and chat with clients who may be having problems.
+The admin homepage allows admins to make new categories, monitor innappropriate content, and chat with clients who may be having problems. Right now, the admin will receive reports made from clients regarding inappropriate content, as shown in the table. The admin can delete old and irrelevant reports as needed by clicking the "X" button. Based on reports, the admin can also delete the accounts of users who seem to be causing trouble. In addition, the admin can send individual messages to clients that will be sent to their email.
 
-<img src="doc/admin-page-M1.png">
+<img src="doc/admin-page-M2.png">
+
+### Add Reports
+
+The add reports page enables any user to add a report regarding inappropriate content on the site. As shown, this page is accessible in the dropdown in the top right of the navbar. Once a report is created and submitted, this information is sent straight to the admin for review.
+
+<img src="doc/addReport-page-M2.png">
 
 ### Events
 
@@ -173,11 +191,17 @@ The goal of Milestone 1 was to create a set of HTML pages using semantic ui reac
 
 Milestone 1 was managed using [Bridging the Gap GitHub Project Board M1](https://github.com/bridging-the-gap/bridging-the-gap/projects/1)
 
-### Milestone 2: Data model development
+### Milestone 2: Data model development & testing
 
-The goal of Milestone 2 is to implement the data model: the underlying set of Mongo Collections and the operations upon them that will support the Bridging the Gap application. In addition, we will add more pages and improve on the overall functionality and completeness of the system.
+The goal of Milestone 2 was to implement the data model: the underlying set of Mongo Collections and the operations upon them that will support the Bridging the Gap application. In addition, we added more pages, improved on the overall functionality and completeness of the system, added testcafe acceptance tests, and put our system under continuous integration.
 
-Milestone 2 is managed using [Bridging the Gap GitHub Project Board M2](https://github.com/bridging-the-gap/bridging-the-gap/projects/2)
+Milestone 2 was managed using [Bridging the Gap GitHub Project Board M2](https://github.com/bridging-the-gap/bridging-the-gap/projects/2)
+
+### Milestone 3: Real data and finalizing functionality
+
+The goal of Milestone 3 is to finish implementing the functionality of all our pages. In addition, we aim to add substantial amounts of real data to all of our collections in the system. Afterward, we will get community feedback and finalize testing on our site to ensure it is the best it can be.
+
+Milestone 3 is managed using [Bridging the Gap GitHub Project Board M3](https://github.com/bridging-the-gap/bridging-the-gap/projects/3)
 
 ## Team
 
