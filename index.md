@@ -105,7 +105,7 @@ The company can also choose to add a background picture to customize their page.
 
 The browse company page display all companies by geographic preference. Currently all logged in users can view this page.
 
-<img src="doc/browse-companies-deploy.png">
+<img src="doc/Browse-companies-M2.png">
 
 ### Student Homepage
 
@@ -123,7 +123,7 @@ This page is for the student to add resume and job experience.
 
 The browse students page display all students by skill preference. Currently all logged in users can view this page.
 
-<img src="doc/browse-students-deploy.png">
+<img src="doc/Browse-students-M2.png">
 
 ### Admin Homepage
 
