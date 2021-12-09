@@ -162,7 +162,14 @@ The event page will display all upcoming events arranged by companies for UH Stu
 
 ## Community Feedback
 
-Not yet available.
+Questions:
+* How do you like the design/layout of the website?
+* Does everything function correctly?
+* Or are there any bugs you can find?
+* What improvements/additions could be made?
+* Do you think our website would be useful to the UH community?
+* Does the data we’ve provided seem realistic?
+* On a scale of 1 to 10, how would you rate our website?
 
 ## Developer Guide
 
