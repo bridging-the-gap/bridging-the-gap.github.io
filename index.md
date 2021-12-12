@@ -87,30 +87,18 @@ To register, use the sign up page, also accessible from the dropdown in the top 
 
 ### Company Homepage
 
-The company homepage allows companies to create their own profile on this site and add job listings.
-The company information will be displayed on the left side of the screen, while the active job listings will be shown on the right side. Active events are also displayed below any active job listings. From there you can browse any active events, sign up to attend or create an even of your own.
+After creating an account or logging in, if your account is specified as a company, you will be redirected here.
+The company homepage allows companies to edit their own profile and add job listings.
+The company information will be displayed on the left side of the screen, while the active job listings will be shown on the right side. Active events are also displayed below the active job listings. From there you can browse any active events, sign up to attend or create an event of your own.
 
-<img src="doc/Company_Homepage.PNG">
-
-By clicking on the profile button, it will redirect you to the create profile page.
-
-<img src="doc/AddCompany.PNG">
-
-Here you are able to leave a short description of your company, where you are located, 
-what industries you are interested in and an email by which you can be contacted.
-
-By clicking on the "Add Job Listing", you will be redirected to the create job listing page.
-
-<img src="doc/addJob.PNG">
-
-Here you can create job listings; the job title, location, salary range and a short description of the job and it's responsibilities.
+<img src="doc/home-company.PNG">
+<img src="doc/home-company-event.PNG">
 
 ### Company Profile Page
 
 The company profile page will display all of the company's details and the jobs that are available for said company.
-The company can also choose to add a background picture to customize their page.
 
-<img src="doc/Company account profile.PNG">
+<img src="doc/profile-company.PNG">
 
 ### Browse Companies
 
