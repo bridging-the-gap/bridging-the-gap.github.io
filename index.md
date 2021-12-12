@@ -159,9 +159,9 @@ Questions:
 * Does the data we’ve provided seem realistic?
 * On a scale of 1 to 10, how would you rate our website?
 
-Community Member: Andrew
+<p>Community Member: Andrew
 * How do you like the design/layout of the website?
-      <p> I like it, it's nice and simple. <p>
+      <br> I like it, it's nice and simple. 
 * Does everything function correctly?
       Seems like it.
 * Did you come accross any bugs?
@@ -173,7 +173,7 @@ Community Member: Andrew
 * Does the data we’ve provided seem realistic?
       Yes
 * On a scale of 1 to 10, how would you rate our website?
-      8 
+      8 <p>
 
 ## Developer Guide
 
