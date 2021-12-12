@@ -159,20 +159,20 @@ Questions:
 * Does the data we’ve provided seem realistic?
 * On a scale of 1 to 10, how would you rate our website?
 
-#### Community Member: Andrew
-##### How do you like the design/layout of the website?
+### Community Member: Andrew
+#### How do you like the design/layout of the website?
   I like it, it's nice and simple. 
-##### Does everything function correctly?
+#### Does everything function correctly?
   Seems like it.
-##### Did you come accross any bugs?
+#### Did you come accross any bugs?
   No
-##### What improvements/additions could be made?
+#### What improvements/additions could be made?
   Maybe add a bit more design to the webpages. It still seems a little rough.
-##### Do you think our website would be useful to the UH community?
+#### Do you think our website would be useful to the UH community?
   Yes, if you can get companies to use this website, it should be a very useful tool for the community
-##### Does the data we’ve provided seem realistic?
+#### Does the data we’ve provided seem realistic?
   Yes
-##### On a scale of 1 to 10, how would you rate our website?
+#### On a scale of 1 to 10, how would you rate our website?
   8 
 
 
