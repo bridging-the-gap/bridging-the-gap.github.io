@@ -159,22 +159,25 @@ Questions:
 * Does the data we’ve provided seem realistic?
 * On a scale of 1 to 10, how would you rate our website?
 
-#### Community Member: Andrew
+### Community Members: Andrew (A), William Reich (WR),
 #### How do you like the design/layout of the website?
-  I like it, it's nice and simple. 
+  A: I like it, it's nice and simple. 
+  WR: I like it but would suggest more graphics be added to engage the user and direct their attention to areas of interest.
 #### Does everything function correctly?
-  Seems like it.
-#### Did you come accross any bugs?
-  No
+  A: Seems like it.
+  WR: No
+#### Did you come across any bugs?
+  A: No
+  WR: The business skill that I entered upon signing up and creating a company account disappeared when I went to look at my profile.
 #### What improvements/additions could be made?
-  Maybe add a bit more design to the webpages. It still seems a little rough.
+  A: Maybe add a bit more design to the webpages. It still seems a little rough.
+  WR: There could be more ways companies and users to get in contact like zoom or google pages for meetings.
 #### Do you think our website would be useful to the UH community?
-  Yes, if you can get companies to use this website, it should be a very useful tool for the community
+  A: Yes, if you can get companies to use this website, it should be a very useful tool for the community.
 #### Does the data we’ve provided seem realistic?
-  Yes
+  A, WR: Yes
 #### On a scale of 1 to 10, how would you rate our website?
-  8 
-
+  A, WR: 8
 
 ## Developer Guide
 
