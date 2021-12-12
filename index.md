@@ -160,11 +160,11 @@ Questions:
 * On a scale of 1 to 10, how would you rate our website?
 
 #### Community Member: Andrew
-<br> ##### How do you like the design/layout of the website?
+<br> #### How do you like the design/layout of the website?
       <br> I like it, it's nice and simple. 
-<br> ##### Does everything function correctly?
+<br> #### Does everything function correctly?
       <br> Seems like it.
-<br> ##### Did you come accross any bugs?
+<br> #### Did you come accross any bugs?
       <br> No
 <br>What improvements/additions could be made?
       <br> Maybe add a bit more design to the webpages. It still seems a little rough.
