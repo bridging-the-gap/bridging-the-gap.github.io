@@ -118,7 +118,7 @@ This page will allow the student to add resume and job experience.
 
 <img src="doc/student-profile-page.png">
 
-Edit Student Profile Page
+###Edit Student Profile Page
 
 Students will be able to edit their profiles via this page.
 
@@ -160,20 +160,21 @@ Questions:
 * On a scale of 1 to 10, how would you rate our website?
 
 <p>Community Member: Andrew
-* How do you like the design/layout of the website?
+<br>How do you like the design/layout of the website?
       <br> I like it, it's nice and simple. 
-* Does everything function correctly?
-      Seems like it.
-* Did you come accross any bugs?
-      No
-* What improvements/additions could be made?
-      Maybe add a bit more design to the webpages. It still seems a little rough.
-* Do you think our website would be useful to the UH community?
-      Yes, if you can get companies to use this website, it should be a very useful tool for the community
-* Does the data we’ve provided seem realistic?
-      Yes
-* On a scale of 1 to 10, how would you rate our website?
-      8 <p>
+<br>Does everything function correctly?
+      <br> Seems like it.
+<br>Did you come accross any bugs?
+      <br> No
+<br>What improvements/additions could be made?
+      <br> Maybe add a bit more design to the webpages. It still seems a little rough.
+<br>Do you think our website would be useful to the UH community?
+      <br> Yes, if you can get companies to use this website, it should be a very useful tool for the community
+<br>Does the data we’ve provided seem realistic?
+      <br> Yes
+<br>On a scale of 1 to 10, how would you rate our website?
+      <br>8 
+<p>
 
 ## Developer Guide
 
