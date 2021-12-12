@@ -161,7 +161,7 @@ Questions:
 
 Community Member: Andrew
 * How do you like the design/layout of the website?
-      I like it, it's nice and simple.
+      <p> I like it, it's nice and simple. <p>
 * Does everything function correctly?
       Seems like it.
 * Did you come accross any bugs?
