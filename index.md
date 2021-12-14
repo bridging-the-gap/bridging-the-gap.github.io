@@ -51,17 +51,17 @@ Some mockup pages include:
 The latest version of the app is hosted [here](https://bridging-the-gap.xyz/#/).
 
 #### Log-in credentials for a home-page mockup for companies using the app: 
-Email: google@google.com
+Email: hr@google.com
 
 Password: foo
 
 #### Log-in credentials for a home-page mockup for students using the app: 
-Email: henric@hawaii.edu
+Email: erish@hawaii.edu
 
 Password: foo
 
 #### Log-in credentials for a home-page mockup for admin using the app: 
-Email: cmoore@hawaii.edu
+Email: bridging.the.gap.uhm@gmail.com
 
 Password: foo
 
@@ -69,9 +69,9 @@ Password: foo
 
 ### Landing Page
 
-The landing page is the page everyone sees when they first enter the site. It introduces Bridging the Gap and its purpose and describes how to register. There is also a place to leave feedback on the site.
+The landing page is the page everyone sees when they first enter the site. It introduces Bridging the Gap and its purpose and describes how to register. There is also a section at the bottom to leave feedback on the site, which will get sent to the email bridging.the.gap.uhm@gmail.com.
 
-<img src="doc/landing-page-M1.png">
+<img src="doc/landing-page-M3.png">
 
 ### Sign in
 
@@ -132,15 +132,15 @@ The browse students page displays all students by skill preference. Currently al
 
 ### Admin Homepage
 
-The admin homepage allows admins to make new categories, monitor innappropriate content, and chat with clients who may be having problems. Right now, the admin will receive reports made from clients regarding inappropriate content, as shown in the table. The admin can delete old and irrelevant reports as needed by clicking the "X" button. Based on reports, the admin can also delete the accounts of users who seem to be causing trouble. In addition, the admin can send individual messages to clients that will be sent to their email.
+The admin homepage contains a few different functionalities. First off, in the 'Create New Categories' section, the admin can create new categories of either skills or locations by which students and companies can filter by in the BrowseStudents and BrowseCompanies pages respectively. The admin specifies whether they want to add a skill or category by selecting this option under the dropdown with the label 'Type'. In addition, in the 'User Problem Reports' section, the admin receives reports made from clients regarding problems on the website, as shown in the table. These problems may be of type 'bug', 'user abuse', or 'other', and the admin can filter by the type of problem. In addition, the admin can delete old and irrelevant reports as needed by clicking the "X" button. Based on reports, the admin can also delete the accounts of users who seem to be causing trouble in the 'Delete Offending User' section. Finally, in the 'Send Email to Clients' section, the admin can write and send individual messages to clients that will go to their email.
 
-<img src="doc/admin-page-M2.png">
+<img src="doc/admin-home-page-M3.png">
 
 ### Add Reports
 
-The add reports page enables any user to add a report regarding inappropriate content on the site. As shown, this page is accessible in the dropdown in the top right of the navbar. Once a report is created and submitted, this information is sent straight to the admin for review.
+The add reports page enables any user to add a report regarding a problem on the site. As shown, this page is accessible from the dropdown in the top right of the navbar. In the 'Type' dropdown, the user can choose whether their problem is a bug, user abuse, or other. Then, they can write a description of their problem. Once a report is created and submitted, this information is sent straight to the admin for review.
 
-<img src="doc/addReport-page-M2.png">
+<img src="doc/addReport-page-M3.png">
 
 ### Events
 
