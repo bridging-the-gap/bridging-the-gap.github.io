@@ -118,7 +118,7 @@ This page will allow the student to add resume and job experience.
 
 <img src="doc/student-profile-page.png">
 
-###Edit Student Profile Page
+### Edit Student Profile Page
 
 Students will be able to edit their profiles via this page.
 
@@ -163,7 +163,7 @@ Companies can add jobs by clicking a link from their home page, and filling out 
 <img src="doc/add-job-page.png">
 
 ### Edit jobs
-Compaanies can edit jobs by changing forms like this one. They can get to the edit page by clicking edit underneath the different job listings on their home page.
+Companies can edit jobs by changing forms like this one. They can get to the edit page by clicking edit underneath the different job listings on their home page.
 <img src="doc/edit-job-page.png">
 
 ## Community Feedback
@@ -177,37 +177,47 @@ Questions:
 * Does the data we’ve provided seem realistic?
 * On a scale of 1 to 10, how would you rate our website?
 
-### Community Members: Andrew (A), William Reich (WR), Pernille Wingård (PW), 
+### Community Members: Andrew (A), William Reich (WR), Pernille Wingård (PW), Oda Libæk (OL).
 #### How do you like the design/layout of the website?
   A: I like it, it's nice and simple. 
   
   WR: I like it but would suggest more graphics be added to engage the user and direct their attention to areas of interest.
   
   PW: It is a bit to simple and rough. I don't like the color, it's too bright. I suggest using softer and more colors. But other than that I like the layout.
+  
+  OL: The design of the website looks great! However, I would perhaps make the logo more graphic, and change the strong colors to something more soft. 
 #### Does everything function correctly?
-  A, PW: Seems like it.
+  A, PW, OL: Seems like it.
   
   WR: No
+  
 #### Did you come across any bugs?
-  A, PW: No
+  A, PW, OL: No
   
   WR: The business skill that I entered upon signing up and creating a company account disappeared when I went to look at my profile.
+  
 #### What improvements/additions could be made?
   A, WR, PW: Maybe add a bit more design to the webpages. It still seems a little rough.
   
   WR: There could be more ways companies and users to get in contact like zoom or google pages for meetings.
   
   PW: The student profile page does not look finished as the edit button is placed in a weird place. Also the difference between company home page and company profile page is not clear. Would be more logical to be able to edit company profile on the profile page.
+  
+  OL: It would be cool to be able to register for events! The design could also go through siginificant improvements.
+  
 #### Do you think our website would be useful to the UH community?
   A: Yes, if you can get companies to use this website, it should be a very useful tool for the community.
   
   WR: Yes of course, connecting students and companies is very important.
   
   PW: Yes, absolutely. This should defenetly be a thing!
+  
+  OL: Yes I think so! We have something similar at our home university in Norway and almost all of the students are using it on a regular basis.
+  
 #### Does the data we’ve provided seem realistic?
-  A, WR, PW: Yes
+  A, WR, PW, OL: Yes
 #### On a scale of 1 to 10, how would you rate our website?
-  A, WR: 8
+  A, WR, OL: 8
   
   PW: 9
 
