@@ -148,6 +148,17 @@ The event page will display all upcoming events arranged by companies for UH Stu
 
 <img src="doc/event-mockup-page.png">
 
+### Jobs
+
+The job listing page displays all joblistings that the companies have added. The student have ability to favorite/unfavorite the different jobs. These will then be showed on the student home page. The apply button take you to the original joblisting on the company website, where you get more information about the position.
+
+The job page as it looks for students:
+<img src="doc/jobs-page-student.png">
+
+The job page as it looks for companies and admin:
+<img src="doc/jobs-page-company.png">
+
+
 ## Community Feedback
 
 Questions:
