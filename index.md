@@ -196,6 +196,8 @@ Questions:
   A, WR, PW: Maybe add a bit more design to the webpages. It still seems a little rough.
   
   WR: There could be more ways companies and users to get in contact like zoom or google pages for meetings.
+  
+  PW: The student profile page does not look finished as the edit button is placed in a weird place. Also the difference between company home page and company profile page is not clear. Would be more logical to be able to edit company profile on the profile page.
 #### Do you think our website would be useful to the UH community?
   A: Yes, if you can get companies to use this website, it should be a very useful tool for the community.
   
