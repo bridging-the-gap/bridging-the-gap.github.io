@@ -160,11 +160,11 @@ The job page as it looks for companies and admin:
 
 ### Add jobs
 Companies can add jobs by clicking a link from their home page, and filling out this page.
-<img src="doc/add-jobs-page.png">
+<img src="doc/add-job-page.png">
 
 ### Edit jobs
 Compaanies can edit jobs by changing forms like this one. They can get to the edit page by clicking edit underneath the different job listings on their home page.
-<img src="doc/edit-jobs-page.png">
+<img src="doc/edit-job-page.png">
 
 ## Community Feedback
 
