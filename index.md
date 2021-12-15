@@ -159,31 +159,38 @@ Questions:
 * Does the data we’ve provided seem realistic?
 * On a scale of 1 to 10, how would you rate our website?
 
-### Community Members: Andrew (A), William Reich (WR),
+### Community Members: Andrew (A), William Reich (WR), Pernille Wingård (PW), 
 #### How do you like the design/layout of the website?
   A: I like it, it's nice and simple. 
   
   WR: I like it but would suggest more graphics be added to engage the user and direct their attention to areas of interest.
+  
+  PW: It is a bit to simple and rough. I don't like the color, it's too bright. I suggest using softer and more colors. But other than that I like the layout.
 #### Does everything function correctly?
-  A: Seems like it.
+  A, PW: Seems like it.
   
   WR: No
 #### Did you come across any bugs?
-  A: No
+  A, PW: No
   
   WR: The business skill that I entered upon signing up and creating a company account disappeared when I went to look at my profile.
 #### What improvements/additions could be made?
-  A, WR: Maybe add a bit more design to the webpages. It still seems a little rough.
+  A, WR, PW: Maybe add a bit more design to the webpages. It still seems a little rough.
   
   WR: There could be more ways companies and users to get in contact like zoom or google pages for meetings.
 #### Do you think our website would be useful to the UH community?
   A: Yes, if you can get companies to use this website, it should be a very useful tool for the community.
   
   WR: Yes of course, connecting students and companies is very important.
+  
+  PW: Yes, absolutely. This should defenetly be a thing!
 #### Does the data we’ve provided seem realistic?
-  A, WR: Yes
+  A, WR, PW: Yes
 #### On a scale of 1 to 10, how would you rate our website?
   A, WR: 8
+  
+  PW: 9
+
 
 ## Developer Guide
 
