@@ -152,12 +152,19 @@ The event page will display all upcoming events arranged by companies for UH Stu
 
 The job listing page displays all joblistings that the companies have added. The student have ability to favorite/unfavorite the different jobs. These will then be showed on the student home page. The apply button take you to the original joblisting on the company website, where you get more information about the position.
 
-The job page as it looks for students:
+The job page as it looks for students. Here the second job is favorited, showed with a red heart instead of green:
 <img src="doc/jobs-page-student.png">
 
 The job page as it looks for companies and admin:
 <img src="doc/jobs-page-company.png">
 
+### Add jobs
+Companies can add jobs by clicking a link from their home page, and filling out this page.
+<img src="doc/add-jobs-page.png">
+
+### Edit jobs
+Compaanies can edit jobs by changing forms like this one. They can get to the edit page by clicking edit underneath the different job listings on their home page.
+<img src="doc/edit-jobs-page.png">
 
 ## Community Feedback
 
