@@ -90,11 +90,11 @@ To register, use the sign up page, also accessible from the dropdown in the top 
 
 What students see:
 
-<img src="doc/student-signup-M3.png">
+<img src="doc/signup-student-M3.png">
 
 What companies see:
 
-<img src="doc/company-signup-M3.png">
+<img src="doc/signup-company-M3.png">
 
 ### Company Homepage
 
