@@ -230,7 +230,7 @@ This section provides information of interest to Meteor developers wishing to us
 
 First, [install Meteor](https://www.meteor.com/install).
 
-Second, visit the [Bridging the Gap application github page](https://github.com/bowfolios/bowfolios), and click the "Use this template" button to create your own repository initialized with a copy of this application. Alternatively, you can download the sources as a zip file or make a fork of the repo.  However you do it, download a copy of the repo to your local computer.
+Second, visit the [Bridging the Gap application github page](https://github.com/bridging-the-gap/bridging-the-gap), and click the "Use this template" button to create your own repository initialized with a copy of this application. Alternatively, you can download the sources as a zip file or make a fork of the repo.  However you do it, download a copy of the repo to your local computer.
 
 Third, cd into the bridging-the-gap/app directory and install libraries with:
 
@@ -274,9 +274,9 @@ Milestone 2 was managed using [Bridging the Gap GitHub Project Board M2](https:/
 
 ### Milestone 3: Real data and finalizing functionality
 
-The goal of Milestone 3 is to finish implementing the functionality of all our pages. In addition, we aim to add substantial amounts of real data to all of our collections in the system. Afterward, we will get community feedback and finalize testing on our site to ensure it is the best it can be.
+The goal of Milestone 3 was to finish implementing the functionality of all our pages. In addition, we aimed to add substantial amounts of real data to all of our collections in the system. Afterward, we received community feedback and finalized testing on our site to ensure it was the best it could be.
 
-Milestone 3 is managed using [Bridging the Gap GitHub Project Board M3](https://github.com/bridging-the-gap/bridging-the-gap/projects/3)
+Milestone 3 was managed using [Bridging the Gap GitHub Project Board M3](https://github.com/bridging-the-gap/bridging-the-gap/projects/3)
 
 ## Team
 
