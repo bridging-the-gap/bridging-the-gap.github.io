@@ -290,6 +290,6 @@ Bridging the Gap is designed, implemented, and maintained by
 
 ## Contact Us
 
-If you have any questions regarding Bridging the Gap, contact us at bridging.the.gap.uhm@gmail.com
+If you have any questions regarding Bridging the Gap, contact us at bridging.the.gap.uhm@gmail.com.
 
 
