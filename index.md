@@ -7,6 +7,7 @@
 * [Developer Guide](#developer-guide)
 * [Development History](#development-history)
 * [Team](#team)
+* [Contact Us](#contact-us)
 
 ## Overview
 
@@ -264,19 +265,19 @@ The following sections document the development history of Bridging the Gap.
 
 The goal of Milestone 1 was to create a set of HTML pages using semantic ui react, which provide a mockup of the pages in the system.
 
-Milestone 1 was managed using [Bridging the Gap GitHub Project Board M1](https://github.com/bridging-the-gap/bridging-the-gap/projects/1)
+Milestone 1 was managed using [Bridging the Gap GitHub Project Board M1](https://github.com/bridging-the-gap/bridging-the-gap/projects/1).
 
 ### Milestone 2: Data model development & testing
 
 The goal of Milestone 2 was to implement the data model: the underlying set of Mongo Collections and the operations upon them that will support the Bridging the Gap application. In addition, we added more pages, improved on the overall functionality and completeness of the system, added testcafe acceptance tests, and put our system under continuous integration.
 
-Milestone 2 was managed using [Bridging the Gap GitHub Project Board M2](https://github.com/bridging-the-gap/bridging-the-gap/projects/2)
+Milestone 2 was managed using [Bridging the Gap GitHub Project Board M2](https://github.com/bridging-the-gap/bridging-the-gap/projects/2).
 
 ### Milestone 3: Real data and finalizing functionality
 
 The goal of Milestone 3 was to finish implementing the functionality of all our pages. In addition, we aimed to add substantial amounts of real data to all of our collections in the system. Afterward, we received community feedback and finalized testing on our site to ensure it was the best it could be.
 
-Milestone 3 was managed using [Bridging the Gap GitHub Project Board M3](https://github.com/bridging-the-gap/bridging-the-gap/projects/3)
+Milestone 3 was managed using [Bridging the Gap GitHub Project Board M3](https://github.com/bridging-the-gap/bridging-the-gap/projects/3).
 
 ## Team
 
@@ -286,5 +287,9 @@ Bridging the Gap is designed, implemented, and maintained by
 * [Marte Aaberge](https://martkaa.github.io/) 
 * [Leilani Reich](https://leilani-reich.github.io/)
 * [Bryan Yagi](https://bryanyagi.github.io/)
+
+## Contact Us
+
+If you have any questions regarding Bridging the Gap, contact us at bridging.the.gap.uhm@gmail.com
 
 
