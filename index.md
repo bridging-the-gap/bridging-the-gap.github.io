@@ -1,5 +1,7 @@
 ## Bridging the Gap
 
+![ci-badge](https://github.com/bridging-the-gap/bridging-the-gap/workflows/ci-bridging-the-gap/badge.svg)
+
 * [Overview](#overview)
 * [Deployment](#deployment)
 * [User Guide](#user-guide)
