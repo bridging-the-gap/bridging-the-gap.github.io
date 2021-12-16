@@ -95,6 +95,9 @@ The company homepage allows companies to edit their own profile and add job list
 The company information will be displayed on the left side of the screen, while the active job listings will be shown on the right side. Active events are also displayed below the active job listings. From there you can browse any active events, sign up to attend or create an event of your own.
 
 <img src="doc/home-company.PNG">
+
+A closer look:
+
 <img src="doc/home-company-event.PNG">
 
 ### Company Profile Page
@@ -111,11 +114,11 @@ The browse company page display all companies by geographic preference, using fi
 
 ### Student Homepage
 
-This page will let the student see events and jobs they've favorited. It starts out blank.
+This page will let the student see events and jobs they've favorited. It starts out empty.
 
 <img src="doc/student-home-page-M3.png">
 
-As students favorite jobs and events, their home page will become filled.
+As students favorite jobs and events, their home page will become filled. By clicking the favorite button once more, the events/jobs will become unfavorited and be removed from the student home page.
 
 <img src="doc/student-home-page-2-M3.png">
 
@@ -127,7 +130,7 @@ This page will allow the student to view their profile and access the page to ed
 
 ### Edit Student Profile Page
 
-Students will be able to edit their profiles via this page.
+Students can edit their profiles via this page. They can change almost all fields they added in during signup but they cannot edit their emails.
 
 <img src="doc/edit-profile-page-M3.png">
 
