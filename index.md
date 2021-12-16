@@ -123,7 +123,7 @@ As students favorite jobs and events, their home page will become filled.
 
 This page will allow the student to view their profile and access the page to edit it if needed. Clicking the link called "edit" in the bottom left of the profile card takes the student to the edit student profile page.
 
-<img src="doc/student-profile-page.png">
+<img src="doc/student-profile-page-M3.png">
 
 ### Edit Student Profile Page
 
