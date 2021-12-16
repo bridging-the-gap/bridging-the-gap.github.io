@@ -84,9 +84,17 @@ To login, use the sign in page. Click on the “Login” button in the upper rig
 
 ### Sign up
 
-To register, use the sign up page, also accessible from the dropdown in the top right of the navbar. Once reaching the signup page, you have the same fields as the sign in page plus you must also specify your role as either student or company.
+To register, use the sign up page, also accessible from the dropdown in the top right of the navbar. Once reaching the signup page, you have the same fields as the sign in page plus you must also specify your role as either student or company. Once you do, unique fields will pop up for you to fill out. They differ for student and company roles.
 
 <img src="doc/signup-page-M2.png">
+
+What students see:
+
+<img src="doc/student-signup-M3.png">
+
+What companies see:
+
+<img src="doc/company-signup-M3.png">
 
 ### Company Homepage
 
