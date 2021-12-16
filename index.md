@@ -147,9 +147,21 @@ The add reports page enables any user to add a report regarding a problem on the
 
 ### Events
 
-The event page will display all upcoming events arranged by companies for UH Students only. This involves career-fairs, presentations and dinners with potential employers. 
+The event page will display all upcoming events arranged by companies for UH Students only. This involves career-fairs, presentations and dinners with potential employers. Students can favorite the events they want to attend and they will show up at their home-page. 
 
-<img src="doc/event-mockup-page.png">
+<img src="doc/eventspage.png">
+
+### Add Events
+
+Companies can add events by clicking a link from their home page, and filling out this page. 
+
+<img src="doc/addevent.png">
+
+### Edit Events
+
+Companies can edit events by changing forms like this one. They can get to the edit page by clicking edit underneath the different events on their home page.
+<img src="doc/editevent.png">
+
 
 ### Jobs
 
