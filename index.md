@@ -195,14 +195,16 @@ Questions:
 #### Did you come across any bugs?
   A, PW, OL: No
   
-  WR: The business skill that I entered upon signing up and creating a company account disappeared when I went to look at my profile.
+  WR: The business skill that I entered upon signing up and creating a company account disappeared when I went to look at my profile. (fixed)
   
 #### What improvements/additions could be made?
   A, WR, PW: Maybe add a bit more design to the webpages. It still seems a little rough.
   
   WR: There could be more ways companies and users to get in contact like zoom or google pages for meetings.
   
-  PW: The student profile page does not look finished as the edit button is placed in a weird place. Also the difference between company home page and company profile page is not clear. Would be more logical to be able to edit company profile on the profile page.
+  PW: The student profile page does not look finished as the edit button is placed in a weird place. (fixed)
+
+Also the difference between company home page and company profile page is not clear. Would be more logical to be able to edit company profile on the profile page.
   
   OL: It would be cool to be able to register for events! The design could also go through significant improvements.
   
