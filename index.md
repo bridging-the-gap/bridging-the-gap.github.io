@@ -192,7 +192,7 @@ Questions:
 * Does the data we’ve provided seem realistic?
 * On a scale of 1 to 10, how would you rate our website?
 
-### Community Members: Andrew (A), William Reich (WR), Pernille Wingård (PW), Oda Libæk (OL).
+### Community Members: Andrew (A), William Reich (WR), Pernille Wingård (PW), Oda Libæk (OL), Kaja Haugstvedt (KH).
 #### How do you like the design/layout of the website?
   A: I like it, it's nice and simple. 
   
@@ -201,13 +201,15 @@ Questions:
   PW: It is a bit to simple and rough. I don't like the color, it's too bright. I suggest using softer and more colors. But other than that I like the layout.
   
   OL: The design of the website looks great! However, I would perhaps make the logo more graphic, and change the strong colors to something more soft. 
+  
+  KH: I think it looks a bit simple, but I like that the logo is shaped like a bridge.
 #### Does everything function correctly?
-  A, PW, OL: Seems like it.
+  A, PW, OL, KH: Seems like it.
   
   WR: No
   
 #### Did you come across any bugs?
-  A, PW, OL: No
+  A, PW, OL, KH: No
   
   WR: The business skill that I entered upon signing up and creating a company account disappeared when I went to look at my profile. (fixed)
   
@@ -222,6 +224,8 @@ Also the difference between company home page and company profile page is not cl
   
   OL: It would be cool to be able to register for events! The design could also go through significant improvements.
   
+  KH: If you were able to submit you CV so your user had it in its collection when you applied for a job.
+  
 #### Do you think our website would be useful to the UH community?
   A: Yes, if you can get companies to use this website, it should be a very useful tool for the community.
   
@@ -231,10 +235,12 @@ Also the difference between company home page and company profile page is not cl
   
   OL: Yes I think so! We have something similar at our home university in Norway and almost all of the students are using it on a regular basis.
   
+  KH: Yes, absolutely! It is a good websit for companies to connect to students!
+  
 #### Does the data we’ve provided seem realistic?
-  A, WR, PW, OL: Yes
+  A, WR, PW, OL, KH: Yes
 #### On a scale of 1 to 10, how would you rate our website?
-  A, WR, OL: 8
+  A, WR, OL, KH: 8
   
   PW: 9
 
