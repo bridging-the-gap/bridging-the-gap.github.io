@@ -102,9 +102,9 @@ The company profile page will display all of the company's details and the jobs 
 
 ### Browse Companies
 
-The browse company page display all companies by geographic preference. Currently all logged in users can view this page.
+The browse company page display all companies by geographic preference, using fitering. All logged in users can view this page.
 
-<img src="doc/Browse-companies-M2.png">
+<img src="doc/browse-companies-m3.png">
 
 ### Student Homepage
 
@@ -126,9 +126,9 @@ Students will be able to edit their profiles via this page.
 
 ### Browse Students
 
-The browse students page displays all students by skill preference. Currently all logged in users can view this page.
+The browse students page displays all students by skill preference, using filtering. All logged in users can view this page.
 
-<img src="doc/Browse-students-M2.png">
+<img src="doc/browse-students-m3.png">
 
 ### Admin Homepage
 
