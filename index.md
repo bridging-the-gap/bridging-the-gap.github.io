@@ -111,13 +111,17 @@ The browse company page display all companies by geographic preference, using fi
 
 ### Student Homepage
 
-This page will let the student have an overview over events and job applications.
+This page will let the student see events and jobs they've favorited. It starts out blank.
 
-<img src="doc/student-home-page.png">
+<img src="doc/student-home-page-M3.png">
+
+As students favorite jobs and events, their home page will become filled.
+
+<img src="doc/student-home-page-2-M3.png">
 
 ### Student Profile Page
 
-This page will allow the student to add resume and job experience.
+This page will allow the student to view their profile and access the page to edit it if needed. Clicking the link called "edit" in the bottom left of the profile card takes the student to the edit student profile page.
 
 <img src="doc/student-profile-page.png">
 
@@ -125,7 +129,7 @@ This page will allow the student to add resume and job experience.
 
 Students will be able to edit their profiles via this page.
 
-<img src="doc/edit-student-profile-page.png">
+<img src="doc/edit-profile-page-M3.png">
 
 ### Browse Students
 
