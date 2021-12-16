@@ -204,14 +204,14 @@ Questions:
   
   PW: The student profile page does not look finished as the edit button is placed in a weird place. Also the difference between company home page and company profile page is not clear. Would be more logical to be able to edit company profile on the profile page.
   
-  OL: It would be cool to be able to register for events! The design could also go through siginificant improvements.
+  OL: It would be cool to be able to register for events! The design could also go through significant improvements.
   
 #### Do you think our website would be useful to the UH community?
   A: Yes, if you can get companies to use this website, it should be a very useful tool for the community.
   
   WR: Yes of course, connecting students and companies is very important.
   
-  PW: Yes, absolutely. This should defenetly be a thing!
+  PW: Yes, absolutely. This should definitely be a thing!
   
   OL: Yes I think so! We have something similar at our home university in Norway and almost all of the students are using it on a regular basis.
   
