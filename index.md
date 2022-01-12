@@ -51,22 +51,7 @@ Some mockup pages include:
 * Events
 
 ## Deployment
-The latest version of the app is hosted [here](https://bridging-the-gap.xyz/#/).
-
-#### Log-in credentials for a home-page mockup for companies using the app: 
-Email: hr@google.com
-
-Password: foo
-
-#### Log-in credentials for a home-page mockup for students using the app: 
-Email: erish@hawaii.edu
-
-Password: foo
-
-#### Log-in credentials for a home-page mockup for admin using the app: 
-Email: bridging.the.gap.uhm@gmail.com
-
-Password: foo
+The latest version of the app was hosted at https://bridging-the-gap.xyz/#/. However, the site is no longer available online. To make up for this, I made a quick video going through Bridging the Gap prior to taking the site down, which you can view [here](https://youtu.be/HKx3iJ5qk1I).
 
 ## User Guide
 
@@ -283,6 +268,23 @@ $ meteor npm run start
 ```
 
 If all goes well, the application will appear at [http://localhost:3000](http://localhost:3000).
+
+### Accessing Accounts
+
+#### Log-in credentials for a home-page mockup for company using the app: 
+Email: hr@google.com
+
+Password: foo
+
+#### Log-in credentials for a home-page mockup for student using the app: 
+Email: erish@hawaii.edu
+
+Password: foo
+
+#### Log-in credentials for a home-page mockup for admin using the app: 
+Email: bridging.the.gap.uhm@gmail.com
+
+Password: foo
 
 ## Development History
 
